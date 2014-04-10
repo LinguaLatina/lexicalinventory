@@ -45,7 +45,7 @@ Your URN should look like this:
 
     urn:cite:perseus:latlexent.PREFIXSTRINGxxxx.1
 
-where `PREFIXSTRING` will be the unique prefix you registered in `prefixes.csv`, and `xxxx` will be replaced with one or more numeric characters (0-9).  Each entry much have a unique URN value.
+where `PREFIXSTRING` will be the unique prefix you registered in `prefixes.csv`, and `xxxx` will be replaced with one or more numeric characters (0-9).  Each entry must have a unique URN value.
 
 For more help with URNs, see the wiki.
 
