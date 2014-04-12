@@ -53,5 +53,5 @@ For more help with URNs, see the wiki.
 
 When you have added one or more records, submit a pull request.
 
-That's it!  You'll receive a notification from github when your action is taken on your request.
+That's it!  You'll receive a notification from github when action is taken on your request.
 
